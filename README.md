@@ -1,5 +1,5 @@
-### Hello!
-My name is karusea, I am a node.js / lua developer.
+### Hello! 👋
+My name is karusea, I am a node.js / lua developer!
 
 <!--
 **karusea/karusea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
