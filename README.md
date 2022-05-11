@@ -4,8 +4,8 @@ My name is karusea, I am a node.js / python developer!
 
 - 🌱 I’m currently trying to get more into python.
 - 📫 You can reach me on discord: karusea#8445
-- 😄 Pronouns: Any 
 - ⚡ Fun fact: A group of cats is called a clowder.
+- 😄 Pronouns: Any 
 
 ###### I should probably add more stuff to this later
 <!--
