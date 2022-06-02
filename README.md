@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is karusea, I am a node.js / python developer!
+My name is karusea, I am a javascript (node) / python developer!
 
 
 - 🌱 I’m currently trying to get more into python.
