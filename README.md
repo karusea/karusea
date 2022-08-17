@@ -1,10 +1,9 @@
 ### Hello! 👋
-My name is karusea, I am a javascript (node) and python developer!
+My name is karusea, I am a javascript (node) and python developer
 
 
 - 🌱 I’m currently trying to get better at python.
 - 📫 You can reach me on discord: karusea#8445
-- ⚡ Fun fact: A group of cats is called a clowder.
 - 😄 Pronouns: Any 
 
 ###### I should probably add more stuff to this later
