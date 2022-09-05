@@ -2,7 +2,7 @@
 My name is karusea, I am a javascript (node) and python developer
 
 
-- 🌱 I’m currently trying to get better at python.
+- 🌱 I’m currently trying to get better at python
 - 📫 You can reach me on discord: karusea#8445
 - 😄 Pronouns: Any 
 
