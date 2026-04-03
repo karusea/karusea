@@ -1,9 +1,6 @@
 ## hi
 my name is karusea I like rabbits and writing code sometimes
 
-unfortunately theres not alot of public repositories on my profile... ill try to fix that one day, I mostly work on private codebases
-
-
 
 <!--
 **karusea/karusea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
